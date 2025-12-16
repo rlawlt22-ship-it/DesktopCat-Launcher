@@ -40,18 +40,28 @@
 
 ### 📌 메인 실행 화면
 > 배경이 투명하게 처리되어 바탕화면 아이콘 위에 고양이가 자연스럽게 배치된 모습입니다.
-![Main Screen](img/cat_main.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95465e23-ef36-4a97-807e-14b14039cfb7" />
+
 
 ### 🖱️ 런처 메뉴 사용
 > 우클릭을 통해 즐겨찾기 메뉴를 열고 관리하는 모습입니다.
-![Menu Screen](img/cat_menu.png)
+<img width="317" height="365" alt="image" src="https://github.com/user-attachments/assets/e2515d1c-b73d-4cf2-b45e-185fa3e6d3e6" />
+
+### ✨ 상호작용 및 이펙트 (Interaction)
+> 고양이를 클릭하면 행복한 표정을 지으며 대화창과 함께 별, 음표 등의 파티클 이펙트가 나타납니다.
+<img width="303" height="202" alt="image" src="https://github.com/user-attachments/assets/fea96fc5-99a5-4409-9be3-03221e5369fb" />
+<img width="234" height="193" alt="image" src="https://github.com/user-attachments/assets/f882af33-fa13-4ba7-b9cf-0b4451492081" />
+
+
 
 ### 💤 졸음 모드 (Sleep Mode)
 > 사용자가 15초 동안 아무런 동작을 하지 않으면, 고양이가 눈을 감고 조는 상태로 변합니다. (알고리즘 적용)
-![Sleep Screen](img/cat_sleep.png)
+<img width="278" height="175" alt="image" src="https://github.com/user-attachments/assets/9d395b38-02a4-455d-9795-e3c1a6a8fc1e" />
+
 
 ## 5. 설치 및 실행 (How to Run)
 1. 저장소를 다운로드(Clone) 합니다.
 2. Python이 설치된 환경에서 `main.py`를 실행합니다.
    ```bash
+
    python main.py
